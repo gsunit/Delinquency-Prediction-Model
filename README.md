@@ -6,5 +6,3 @@ Create a delinquency model which can predict in terms of a probability for each 
 
 ## Model
 Please refer to `delinquncy.ipynb`
-
-## Approach
