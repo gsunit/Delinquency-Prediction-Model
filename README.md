@@ -20,3 +20,5 @@ Create a delinquency model which can predict in terms of a probability for each 
  - This clearly indicates there is a need to improve the performance of the model
  - Given more time, I would probably try out a few more classifiers, tune the hyperparameters and attempt to generate more useful features through feature engineering.
  - However for now, this is what I could come up with in a couple of days! Will try to improve upon the model as soon as possible :)
+
+### Please refer `delinquency.ipynb` for the complete code. I have tried to explain each step as clearly as I could.
